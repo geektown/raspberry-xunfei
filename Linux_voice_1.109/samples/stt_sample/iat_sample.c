@@ -206,7 +206,7 @@ void run_iat(const char* audio_file, const char* session_begin_params)
 	}
 	// // printf("\n语音听写结束\n");
 	// // printf("=============================================================\n");
-	// printf("%s\n",rec_result);
+	printf("%s\n",rec_result);
 	// // printf("=============================================================\n");
 
 iat_exit:
