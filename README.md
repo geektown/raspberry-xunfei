@@ -6,6 +6,7 @@
 
 ## 环境配置
 `export LD_LIBRARY_PATH=/home/pi/xunfei/Linux_voice_1.109/libs/RaspberryPi:$LD_LIBRARY_PATH`
+
 `sudo ldconfig`
 
 ## 测试样例
