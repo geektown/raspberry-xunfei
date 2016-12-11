@@ -10,7 +10,10 @@
 `sudo ldconfig`
 
 ## 测试样例
-`./tts_sample temp.wav "Hello Jasper 这个是科大讯飞tts合成的文本。体验一下还不错吧？"`
+```shell
+chmod +x bin/tts_sample
+bin/tts_sample temp.wav "Hello Jasper 这个是科大讯飞tts合成的文本。体验一下还不错吧？"
+```
 
 ## 编译脚本
 在sample目录中
